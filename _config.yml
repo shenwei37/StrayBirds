@@ -116,7 +116,7 @@ disqus:
 #################################### global configure #######################################
 
 username: shenwei37
-baseurl: /StrayBirds
+baseurl: /blog
 markdown: redcarpet
 safe: false
 highlighter: pygments
