@@ -78,15 +78,9 @@ follow:
   - class: icon-rss
     url: /atom.xml
   - class: icon-weibo
-    url: http://weibo.com
-  - class: icon-renren
-    url: http://renren.com
+    url: http://weibo.com/shenwei37
   - class: icon-github-alt
-    url: http://github.com
-  - class: icon-twitter
-    url: http://twitter.com
-  - class: icon-google-plus
-    url: http://google.com
+    url: http://github.com/shenwei37
 
 #Links
 customLinks:
@@ -95,8 +89,7 @@ customLinks:
       url: http://www.zhanxin.info
     - text: Jekyll
       url: http://jekyllrb.com
-    - text: Jekyll Theme
-      url: http://www.zhanxin.info/themes.html
+
     message: Friends
   - item:
     - text: Font Awesome
