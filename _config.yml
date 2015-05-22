@@ -70,7 +70,7 @@ author:
     imageLink: https://avatars2.githubusercontent.com/u/2338785?v=3&s=140
     simpleIntro: SASA's Blog
     detailIntro:
-      <p>以前用的是 wordpress， 不过文章内容一多就反应变慢， 后来发现了能用github page来建博客，使用的Jekyll 是一个简洁的、特别针对博客平台的静态网站生成器，不过有一定的技术要求。
+      <p>以前用的是 WordPress[http://shenwei37.blog.com/]， 不过因为是国外站点而且 WordPress文章一多就反应变慢， 后来发现了能用github page来建博客，使用的Jekyll 是一个简洁的、特别针对博客平台的静态网站生成器，不过有一定的技术要求。
       幸好发现飞鸟集 http://minixalpha.github.io/StrayBirds/ 做好的博客模板， 直接fork采用，多谢作者分享</p>
 
 #Follow me, you can choose your icon by http://fortawesome.github.io/Font-Awesome/icons/#brand
