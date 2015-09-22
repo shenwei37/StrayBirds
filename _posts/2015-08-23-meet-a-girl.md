@@ -11,3 +11,6 @@ comments: true
 with eyes wide shut:
 
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="http://music.163.com/outchain/player?type=2&id=16614329&auto=1&height=66"></iframe>
+
+
+<embed src="http://www.xiami.com/widget/68539112_2381085/singlePlayer.swf" type="application/x-shockwave-flash" width="257" height="33" wmode="transparent"></embed>
