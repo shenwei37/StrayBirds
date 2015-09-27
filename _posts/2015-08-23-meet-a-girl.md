@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 8.23
-category: 呓语
+category: raving
 comments: true
 ---
 # 
