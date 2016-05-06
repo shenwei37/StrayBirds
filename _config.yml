@@ -111,7 +111,7 @@ username: shenwei37
 baseurl: /blog
 markdown: redcarpet
 safe: false
-highlighter: pygments
+highlighter: rouge
 title: SASA's Blog
 description: 惟愿心诚所向，默祈明日之光。
 theme: kunka
